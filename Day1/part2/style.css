@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+
+img{
+    width: 50%;
+    height: 50vh;
+    cursor: pointer;
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 33.3%;
+    height: 33.3%;
+}
+
+.second{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 33.3%;
+    height: 33.3%;
+}
+.third{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 33.3%;
+    height: 33.3%;
+}
+
+.txt{
+    display: none;
+    padding-top: 50px;
+    /* text-align: justify; */
+}
