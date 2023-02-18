@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+}
+
+.container{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+
+}
+
+.bunny{
+
+    width: 150px;
+}
+
+.hole{
+    width: 30%;
+}
+
+.hide{
+    visibility: hidden;
+}
